@@ -2,9 +2,11 @@
 
 An app that allows you to make notes and save notes while storing the info in a json file.
 
-## Installation
+## Link
 
-A step by step series of examples that tell you how to get a development env running.
+[Link to App!](https://dashboard.heroku.com/apps/note-taker-fun/deploy/github)
+
+## Installation
 
 ```cli
 npm install
